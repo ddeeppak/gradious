@@ -1,0 +1,11 @@
+[
+  {"chitra@gmail.com": {"firstName": "Chitra","lastName": "Kumar","mobile": "2012345678","age": 22,"city": "Bangalore"}},
+  {"deepak@gmail.com": {"firstName": "deepak","lastName": "kumar","mobile": "5456468468","age": 25,"city": "Hyherabad"}},
+  {"abhi@gmail.com": {"firstName": "Abhishek","lastName": "Verma","mobile": "6654544446","age": 25,"city": "Delhi"}},
+  {"sonu@gmail.com": {"firstName": "sonu","lastName": "sai","mobile": "5484416514","age": 25,"city": "Delhi"}},
+  {"sree@gmail.com": {"firstName": "sree","lastName": "s","mobile": "1516516516","age": 25,"city": "Delhi"}},
+  {"abhi@gmail.com": {"firstName": "Abhishek","lastName": "Verma","mobile": "6546848468","age": 25,"city": "Hyherabad"}},
+  {"gopi@gmail.com": {"firstName": "gopi","lastName": "Kumar","mobile": "4854849848","age": 25,"city": "Bangalore"}},
+  {"abhi@gmail.com": {"firstName": "Abhishek","lastName": "Verma","mobile": "7485164654","age": 25,"city": "Delhi"}}
+]
+  
